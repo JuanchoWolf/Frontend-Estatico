@@ -1,0 +1,31 @@
+body {
+    background-color: rgba(0, 0, 0, 0.955);
+}
+
+h3, footer {
+    color: azure;
+}
+
+.upBar {
+    text-align: end;
+    margin-right: 5%;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+p, .image {
+    color: wheat;
+    text-align: justify;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.array h1, h3 {
+    text-align: end;
+}
+
+footer h4{
+    text-align: center;
+}
